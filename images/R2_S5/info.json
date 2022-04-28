@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 172,
+    "height" : 258
+  }, {
+    "width" : 344,
+    "height" : 516
+  }, {
+    "width" : 688,
+    "height" : 1032
+  }, {
+    "width" : 1376,
+    "height" : 2064
+  }, {
+    "width" : 2752,
+    "height" : 4128
+  }, {
+    "width" : 5504,
+    "height" : 8256
+  } ],
+  "profile" : "level0",
+  "width" : 5504,
+  "id" : "https://ak251.github.io/sv/images/R2_S5",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 8256
+}
